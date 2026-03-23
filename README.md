@@ -42,6 +42,6 @@ streamlit run app.py
 
 ## 📫 Connect
 
-- 🌍 Portfolio : https://dheerajmuley.netlify.app
+- 🌍 Portfolio : https://dheerajmuley.vercel.app/
 - 💼 LinkedIn  : https://www.linkedin.com/in/dheeraj-muley
 - 🐙 GitHub    : https://github.com/dheeraj815
